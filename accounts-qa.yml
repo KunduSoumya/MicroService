@@ -1,0 +1,13 @@
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to accounts related qa APIs"
+
+  contactDetails:
+    name: "S - Developer"
+    email: "kundusoumya2021@gmail.com"
+
+  onCallSupport:
+    - 90990990
+    - 9656528956
